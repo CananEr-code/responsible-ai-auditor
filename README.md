@@ -32,3 +32,14 @@ Based on Responsible AI principles used in industry environments.
 - Add dashboard (Streamlit)
 - Add PDF reports
 - Extend to NLP models
+
+- ## 📸 Demo
+
+**1. Title + Upload:**  
+![Title & Upload](images/title_upload.png)
+
+**2. Dataset Preview:**  
+![Dataset Preview](images/dataset_preview.png)
+
+**3. Bias Evaluation Result:**  
+![Bias Result](images/bias_result.png)
