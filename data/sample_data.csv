@@ -1,0 +1,5 @@
+gender,age,income,label
+male,30,50000,1
+female,25,60000,0
+male,40,70000,1
+female,35,65000,0
